@@ -1,5 +1,5 @@
 # Sobre mim
-- 👋 Olá meu nome é @FungousJulia
+- 👋 Olá meu nome é Julia Vitoria Da Luz
 - :+1: Meu gmail de contato é juliavitoriadaluz5@gmail.com
 - 👀 Eu estou interresado em aprender a programar novas linguagens.
 - 🌱 Eu estou aprendendo a programar a mais ou menos 1 ano e meio a linguagem de JavaScript e Scratch
